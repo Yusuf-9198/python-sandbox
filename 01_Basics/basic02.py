@@ -1,3 +1,3 @@
-from basic01 import factorial
+from basic01 import sum
 
-factorial("from basic01 file")
+sum(5,6)
